@@ -1,6 +1,8 @@
 # DouBanHouseInfo
 A spider for rent house from douban group
+
 ![预览图](https://github.com/JichunMa/DouBanHouseInfo/blob/master/imgs/screenshots.png)
+
 ## 基于Spider实现的北京豆瓣租房小组爬虫
 使用python 3 笔者环境3.6.3
 IDE: pyCharm
