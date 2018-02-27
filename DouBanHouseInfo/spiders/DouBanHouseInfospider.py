@@ -7,7 +7,7 @@ class DouBanHouseInfo(CrawlSpider):
     name = 'doubanhouseinfo'
     start_urls = ['https://www.douban.com/group/zhufang/discussion?start=1']
 
-    # todo 小组渠道名称
+    # 小组渠道名称
     channel_name_list = ['zhufang', 'fangzi', 'sweethome', 'opking', 'beijingzufang', '26926']
     # todo 爬取页数
     crawl_page = 3
